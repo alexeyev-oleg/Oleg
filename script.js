@@ -6,9 +6,9 @@
 
   const i18n = {
     ru: {
-      "meta.title": "Олег — Производство & ИТ",
+      "meta.title": "Алексеев Олег — Производство & ИТ",
       "meta.description":
-        "Специалист по автоматизированному производству электроники, SMT и системной инженерии",
+        "Алексеев Олег — специалист по автоматизированному производству электроники, SMT и системной инженерии",
       "lang.switch": "Выбор языка",
       "theme.toLight": "Светлая тема",
       "theme.toDark": "Тёмная тема",
@@ -19,6 +19,7 @@
       "nav.projects": "Проекты",
       "nav.experience": "Опыт",
       "nav.contact": "Контакты",
+      "hero.name": 'Алексеев <span class="hero-name-accent">Олег</span>',
       "hero.label": "SMT · Автоматизация · Project Management",
       "hero.title1": "Инженерия на стыке",
       "hero.title2": "производства и\u00a0ИТ",
@@ -31,7 +32,7 @@
       "hero.stat3": "успешных ИТ-проектов",
       "about.title": "Обо мне",
       "about.text":
-        'Специалист с сильным техническим бэкграундом и высшим инженерным образованием (<strong>Киевский технический университет</strong>). Сочетаю глубокую экспертизу в автоматизированном производстве электроники с опытом проектного управления (Project Management) и системной инженерии. Фокусируюсь на автоматизации процессов, программировании SMT-линий и внедрении эффективных решений на стыке производства и ИТ.',
+        '<strong>Алексеев Олег</strong> — специалист с сильным техническим бэкграундом и высшим инженерным образованием (<strong>Киевский политехнический институт</strong>). Сочетаю глубокую экспертизу в автоматизированном производстве электроники с опытом проектного управления (Project Management) и системной инженерии. Фокусируюсь на автоматизации процессов, программировании SMT-линий и внедрении эффективных решений на стыке производства и ИТ.',
       "skills.title": "Ключевые навыки",
       "skills.prod.title": "Производство",
       "skills.prod.smt": "Программирование SMT-машин",
@@ -90,13 +91,13 @@
       "contact.copyAria": "Скопировать email",
       "contact.copied": "Скопировано!",
       "contact.copiedAria": "Адрес электронной почты скопирован в буфер обмена",
-      "footer.copy": "Олег · Производство & ИТ",
+      "footer.copy": "Алексеев Олег · Производство & ИТ",
       "footer.top": "Наверх",
     },
     en: {
-      "meta.title": "Oleg — Manufacturing & IT",
+      "meta.title": "Alexeyev Oleg — Manufacturing & IT",
       "meta.description":
-        "Specialist in automated electronics manufacturing, SMT programming, and systems engineering",
+        "Alexeyev Oleg — specialist in automated electronics manufacturing, SMT programming, and systems engineering",
       "lang.switch": "Language selection",
       "theme.toLight": "Light theme",
       "theme.toDark": "Dark theme",
@@ -107,6 +108,7 @@
       "nav.projects": "Projects",
       "nav.experience": "Experience",
       "nav.contact": "Contact",
+      "hero.name": 'Alexeyev <span class="hero-name-accent">Oleg</span>',
       "hero.label": "SMT · Automation · Project Management",
       "hero.title1": "Engineering at the",
       "hero.title2": "intersection of manufacturing & IT",
@@ -119,7 +121,7 @@
       "hero.stat3": "successful IT projects",
       "about.title": "About Me",
       "about.text":
-        "Specialist with a strong technical background and an engineering degree from <strong>Kyiv Polytechnic Institute</strong>. I combine deep expertise in automated electronics manufacturing with project management and systems engineering experience. I focus on process automation, SMT line programming, and effective solutions at the intersection of manufacturing and IT.",
+        "<strong>Alexeyev Oleg</strong> — specialist with a strong technical background and an engineering degree from <strong>Kyiv Polytechnic Institute</strong>. I combine deep expertise in automated electronics manufacturing with project management and systems engineering experience. I focus on process automation, SMT line programming, and effective solutions at the intersection of manufacturing and IT.",
       "skills.title": "Key Skills",
       "skills.prod.title": "Manufacturing",
       "skills.prod.smt": "SMT machine programming",
@@ -178,7 +180,7 @@
       "contact.copyAria": "Copy email",
       "contact.copied": "Copied!",
       "contact.copiedAria": "Email address copied to clipboard",
-      "footer.copy": "Oleg · Manufacturing & IT",
+      "footer.copy": "Alexeyev Oleg · Manufacturing & IT",
       "footer.top": "Back to top",
     },
   };
